@@ -12,7 +12,7 @@ console.log("Nombre de paragraphes du doc : " +npg.length +" Et d'Images :" +doc
 console.log("====================================");
 console.log("On a le nombre de Synopsis : " +document.getElementsByClassName("c1").length);
 console.log("Première rubrique des films en l'année : " +document.getElementById("2014").innerHTML);
-console.log("Nombre de film sous la rubrique 2016 : " );
+console.log("Nombre de film sous la rubrique 2016 : " +document.querySelectorAll(".f2016").length );
 console.log("====================================");
 console.log("synopsis du film : " );
-console.log(+)
+console.log(+document.getElementById("t1"));
