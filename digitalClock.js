@@ -1,6 +1,5 @@
 ﻿function addSegments(digitId){
-
-    // TODO : compléter
+document.querySelector("hours-tens").className = "segment0";
 
 }
 
