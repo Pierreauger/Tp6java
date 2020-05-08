@@ -1,5 +1,8 @@
 ﻿function addSegments(digitId){
-document.querySelector("hours-tens").className = "segment0";
+for (let i = 0; i<7; i++ ){
+    segments 
+}
+
 
 }
 
